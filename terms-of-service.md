@@ -26,7 +26,7 @@ The look and feel of Hic Services are copyright of Hic Locative Media Srl. Some 
 #We may modify these Terms at any time
 We may modify these terms or any additional terms that apply to a Service to, for example, reflect changes to the law or changes to our Services. You should look at the terms regularly. We’ll post notice of modifications to these terms on this page. If you do not agree to the modified terms for a Service, you should discontinue your use of that Service.
 
-You can access historical versions of our Terms of Service and other policies here.
+You can access historical versions of our Terms of Service and other policies [here](https://github.com/Mapnaut/Policy).
 
 #We may modify our Services at any time
 We do our best to provide you a reliable and evolving service, but we may change, terminate, or restrict access to any aspect of the service, at any time, without notice. The world must keep spinning.
@@ -38,7 +38,7 @@ Mapnaut’s Privacy Policies explain how we treat your personal data and protect
 Mapnaut is only for people 13 years old and over. If you’re under 13, we’re sorry, but you’re not allowed here. If we learn a child under 13 is using Mapnaut we will terminate the child’s account.
 
 #Security and Responsible Disclosures
-We take security very seriously, and are always on the lookout for opportunities to make our service better. Our policy on security and finding and reporting vulnerabilities can be found here.
+We take security very seriously, and are always on the lookout for opportunities to make our service better. If you know of any threat or breach to our security systems that we are not aware of, please email us at inof@mapnaut.com. We will do our best to restore the normal security of the service in a reasonable time.
 
 #Third-party account use for sign-ins
 We currently use third parties like Twitter to create and authorize user accounts. By using those third-party services, you agree to their terms of use, privacy policy, and other agreements between you and them.

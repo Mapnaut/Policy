@@ -57,12 +57,12 @@ We aim to maintain our services in a manner that protects information from accid
 We use encryption methods to protect data transmitted to and from our site. However, no data transmission over the Internet is 100% secure, so we can’t guarantee the absolute security of this data. You use the service at your own risk, and you are responsible for taking reasonable measures to secure your account (such as keeping your password secret).
 
 #Children
-Hic Services are intended for general audiences and are not directed to children under 13. We don’t knowingly collect personal information from children under 13. If you become aware that a child has provided us with personal information, please contact us here. If we learn that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child’s account.
+Hic Services are intended for general audiences and are not directed to children under 13. We don’t knowingly collect personal information from children under 13. If you become aware that a child has provided us with personal information, please contact us at info@mapnaut.com. If we learn that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child’s account.
 
 #Changes to this Policy
 Mapnaut may periodically update this policy. We will notify you about significant changes by placing a prominent notice on our site before the changes take effect.
 
-The most current version of the policy will always be here and we will archive former versions of the policy here.
+The most current version of the policy will always be on this page and we will archive former versions of the policy [here](https://github.com/Mapnaut/Policy).
 
 #Questions
 We welcome questions, concerns, and feedback about this policy. If you have any suggestions for us, feel free to let us know at info@mapnaut.com.
